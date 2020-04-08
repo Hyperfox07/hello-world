@@ -4,11 +4,6 @@
     <head>
         <title>Hello-World!</title>
         <meta charset="utf-8">
-      <style>
-        h1 {
-          color: green;
-        }
-      </style>
     </head>
     <body>
     <h1> Welcome to My Hello-World Page! </h1>
