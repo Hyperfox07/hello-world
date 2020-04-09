@@ -4,7 +4,7 @@
         <meta charset="utf-8">
     </head>
     <body>
-    <h1 style="color: red"> Welcome to My Hello-World Page! </h1>
+    <h1 style="color: rgb(255, 0, 0);"> Welcome to My Hello-World Page! </h1>
     <p>
     Yo! I'm Hyperfox, a Scratch, HTML, and JavaScript coder! As, you can see, I'm not very good with HTML or CSS, so this page probably looks horrible, but I'm learning!
     </p>
